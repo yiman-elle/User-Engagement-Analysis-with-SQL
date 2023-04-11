@@ -26,7 +26,8 @@ There is a significant drop after Jul. 27, we would like to chase to root cause 
 <img width="446" alt="Emails Actions" src="https://user-images.githubusercontent.com/130034843/231058303-f87a5f12-b2c4-47c4-8b42-6c85e46ff831.png"><p>
 
 
-**Conclusion and Recommendation**
+**Conclusion and Recommendation**<p>
+  
 According to above research, there are factors contributing to the drop of engagement:Decreased engagement from existed user, especially those who signed in more than 10 weeks ago. and behind that possibly because their decrease of clicking through email links.<p>
 
 Marketing department can do some enhancement in these email action engagement to improve the user engagement in the product.
